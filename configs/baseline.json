@@ -1,0 +1,11 @@
+{
+  "layers": [4, 8, 3],
+  "activation": "tanh",
+  "learning_rate": 0.05,
+  "batch_size": 16,
+  "epochs": 2000,
+  "standardize": true,
+  "initialization": "xavier",
+  "l2": 0.0,
+  "dtype": "float32"
+}
